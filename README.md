@@ -24,15 +24,10 @@ I was having a little bit of trouble with the all-commands program,
 so I've released the indiviual command EXEs while I continue to
 troubleshoot the all-commands EXE.
 
-
-
-
-
-
-
-
+### A.C.E. Status (All-Command EXE):
 
 | OS      | Version     | Status     |
 |---------|-------------|------------|
 | Windows | Version 0.3 | stable.    |
 | OS X    | Version 0.1 | unreleased |
+| Linux.  | Version 0.1 | unreleased |
