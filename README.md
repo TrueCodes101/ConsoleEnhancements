@@ -28,6 +28,14 @@ troubleshoot the all-commands EXE.
 
 | OS      | Version     | Status     |
 |---------|-------------|------------|
-| Windows | Version 0.3 | stable.    |
+| Windows | Version 0.3 | unreleased |
 | OS X    | Version 0.1 | unreleased |
-| Linux.  | Version 0.1 | unreleased |
+| Linux.  | Version 0.0 | unreleased |
+
+### I.C.E. Status (Indiviual-Command EXE)
+
+| OS      | Version     | Status     |
+|---------|-------------|------------|
+| Windows | Version 0.0 | unreleased |
+| OS X    | Version 0.7 | unreleased |
+| Linux.  | Version 0.0 | unreleased |
