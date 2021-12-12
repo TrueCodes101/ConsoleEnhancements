@@ -1,4 +1,4 @@
-___# ConsoleEnhancements___
+# ConsoleEnhancements
 
 __BEFORE WE START:__
 
