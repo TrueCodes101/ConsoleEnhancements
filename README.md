@@ -1,6 +1,6 @@
-# ConsoleEnhancements
+___# ConsoleEnhancements___
 
-BEFORE WE START:
+__BEFORE WE START:__
 
 
 
@@ -18,7 +18,7 @@ Please do not claim this software(s) as your own under any circumstances.
 
 
 
-WITH THAT OUT OF THE WAY:
+__WITH THAT OUT OF THE WAY:__
 
 
 
