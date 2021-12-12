@@ -1,5 +1,3 @@
-# ConsoleEnhancements
-
 # BEFORE WE START:
 
 
