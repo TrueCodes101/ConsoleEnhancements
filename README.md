@@ -1,4 +1,4 @@
-# BEFORE WE START:
+# Before we start:
 
 
 
@@ -16,7 +16,7 @@ Please do not claim this software(s) as your own under any circumstances.
 
 
 
-# WITH THAT OUT OF THE WAY:
+# With that out of the way:
 
 
 
@@ -39,3 +39,5 @@ troubleshoot the all-commands EXE.
 | Windows | Version 0.0 | unreleased |
 | OS X    | Version 0.7 | unreleased |
 | Linux.  | Version 0.0 | unreleased |
+
+# All Available Commands
