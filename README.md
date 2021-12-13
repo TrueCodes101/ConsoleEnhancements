@@ -1,4 +1,6 @@
-# <img src="https://ibb.co/2WtzTsC;" alt="pfp"> Before we start:
+# Before we start:
+
+<img src="https://ibb.co/2WtzTsC;" alt="pfp">
 
 ConsoleEnhancements is a  program coded in C# which adds support for additional console commands
 
