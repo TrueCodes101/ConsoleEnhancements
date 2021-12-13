@@ -1,7 +1,5 @@
 # Before we start:
 
-<img src="https://ibb.co/2WtzTsC;" alt="pfp">
-
 ConsoleEnhancements is a  program coded in C# which adds support for additional console commands
 
 Download ConsoleEnhancements at https://github.com/TrueCodes101/ConsoleEnhancements/
@@ -45,4 +43,8 @@ TIME - gives current time
 
 SYSTEMINFO - info about your computer (Windows Only)
 
-TOPTENRAM - shows the ten most RAM-using applications open (Windows Only)
+TOPTENRAM - shows the ten most RAM-intensive applications open (Windows Only)
+
+TUTORIALS - links to tutorials on the software
+
+HELP -  used in TUTORIALS.exe, gives my discord + ConsoleEnhancements Discord Server
