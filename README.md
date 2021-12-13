@@ -56,3 +56,10 @@ HELP -  used in TUTORIALS.exe, gives my discord + ConsoleEnhancements Discord Se
 | TIME        | stable     | stable     | stable     |
 | SYSTEMINFO  | unreleased | unreleased | unreleased |
 | TOPTENRAM   | unreleased | unreleased | unreleased |
+
+#### Credits:
+Please do not personally or commercially distribute modified versions of this software or modify said software to remove my name/influence.
+
+ConsoleEnhancements version 1 was officially released on by TrueCodes101, who is the sole creator of this program.
+
+Please do not claim this software(s) as your own under any circumstances.
