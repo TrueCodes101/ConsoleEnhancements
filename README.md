@@ -10,17 +10,17 @@ Created by TrueCodes101
 
 | OS      | Version     | Status     |
 |---------|-------------|------------|
-| Windows | Version 0.3 | unreleased |
-| OS X    | Version 0.1 | unreleased |
-| Linux   | Version 0.0 | unreleased |
+| Windows | Version 0.3 | Unreleased |
+| OS X    | Version 0.1 | Unreleased |
+| Linux   | Version 0.0 | Unreleased |
 
 ### I.C.E. Status (Indiviual-Command EXE)
 
 | OS      | Version     | Status     |
 |---------|-------------|------------|
-| Windows | Version 0.0 | unreleased |
-| OS X    | Version 0.7 | unreleased |
-| Linux   | Version 0.0 | unreleased |
+| Windows | Version 0.0 | Unreleased |
+| OS X    | Version 0.7 | Unreleased |
+| Linux   | Version 0.0 | Unreleased |
 
 # All Available Commands:
 
@@ -39,9 +39,9 @@ HELP -  used in TUTORIALS.exe, gives my discord + ConsoleEnhancements Discord Se
 
 | Command     | Windows    | OS X       | Linux      |
 |-------------|------------|------------|------------|
-| TIME        | stable     | stable     | stable     |
-| SYSTEMINFO  | unreleased | unreleased | unreleased |
-| TOPTENRAM   | unreleased | unreleased | unreleased |
+| TIME        | Stable     | Stable     | Stable     |
+| SYSTEMINFO  | Unreleased | Unreleased | Unreleased |
+| TOPTENRAM   | Unreleased | Unreleased | Unreleased |
 
 #### Credits:
 Please do not personally or commercially distribute modified versions of this software or modify said software to remove my name/influence.
