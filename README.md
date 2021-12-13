@@ -40,5 +40,7 @@ troubleshoot the all-commands EXE.
 
 
 TIME - gives current time
+
 SYSTEMINFO - info about your computer (Windows Only)
+
 TOPTENRAM - shows the ten most RAM-using applications open (Windows Only)
