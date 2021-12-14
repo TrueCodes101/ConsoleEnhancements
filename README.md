@@ -19,7 +19,7 @@ Created by TrueCodes101
 | OS      | Version     | Status     |
 |---------|-------------|------------|
 | Windows | Version 0.0 | Unreleased |
-| OS X    | Version 0.7 | Unreleased |
+| OS X    | Version 1.0 | Stable     |
 | Linux   | Version 0.0 | Unreleased |
 
 # All Available Commands:
