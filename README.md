@@ -39,9 +39,10 @@ HELP -  used in TUTORIALS.exe, gives my discord + ConsoleEnhancements Discord Se
 
 | Command     | Windows    | OS X       | Linux      |
 |-------------|------------|------------|------------|
-| TIME        | Stable     | Stable     | Stable     |
+| TIME        | Unreleased | Stable     | Unstable   |
 | SYSTEMINFO  | Unreleased | Unreleased | Unreleased |
 | TOPTENRAM   | Unreleased | Unreleased | Unreleased |
+| NETWORKINFO | Unreleased | Stable     | Unreleased |
 
 #### Credits:
 Please do not personally or commercially distribute modified versions of this software or modify said software to remove my name/influence.
