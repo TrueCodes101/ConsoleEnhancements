@@ -4,6 +4,8 @@ ConsoleEnhancements is a  program coded in C# which adds support for additional 
 
 Download ConsoleEnhancements at https://github.com/TrueCodes101/ConsoleEnhancements/
 
+Report bugs in ConsoleEnhancements at https://github.com/TrueCodes101/ConsoleEnhancements/issues/new
+
 Created by TrueCodes101
 
 ### A.C.E. Status (All-Command EXE):
