@@ -61,3 +61,5 @@ Please do not claim this software(s) as your own under any circumstances.
 
 
 [stable]: http://badges.github.io/stability-badges/dist/stable.svg
+[unstable]: http://badges.github.io/stability-badges/dist/unstable.svg
+[experimental]: http://badges.github.io/stability-badges/dist/experimental.svg
