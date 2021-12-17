@@ -21,7 +21,7 @@ Created by TrueCodes101
 | OS      | Version     | Status     |
 |---------|-------------|------------|
 | Windows | Version 0.0 | Unreleased |
-| OS X    | Version 1.0 | Stable     |
+| OS X    | Version 1.0 | [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)     |
 | Linux   | Version 0.0 | Unreleased |
 
 # All Available Commands:
