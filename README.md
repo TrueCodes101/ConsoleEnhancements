@@ -12,17 +12,17 @@ Created by TrueCodes101
 
 | OS      | Version     | Status     |
 |---------|-------------|------------|
-| Windows | Version 0.3 | Unreleased |
-| OS X    | Version 0.1 | Unreleased |
-| Linux   | Version 0.0 | Unreleased |
+| Windows | Version 0.3 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
+| OS X    | Version 0.1 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
+| Linux   | Version 0.0 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
 
 ### I.C.E. Status (Indiviual-Command EXE)
 
 | OS      | Version     | Status     |
 |---------|-------------|------------|
-| Windows | Version 0.0 | Unreleased |
+| Windows | Version 0.0 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
 | OS X    | Version 1.0 | [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)     |
-| Linux   | Version 0.0 | Unreleased |
+| Linux   | Version 0.0 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
 
 # All Available Commands:
 
