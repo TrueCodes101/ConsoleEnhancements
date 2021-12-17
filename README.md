@@ -58,3 +58,6 @@ Please do not personally or commercially distribute modified versions of this so
 ConsoleEnhancements **Version 1.0** was officially released on by TrueCodes101, who is the sole creator of this program.
 
 Please do not claim this software(s) as your own under any circumstances.
+
+
+[stable](http://badges.github.io/stability-badges/dist/stable.svg)
