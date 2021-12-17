@@ -42,9 +42,9 @@ HELP -  used in TUTORIALS.exe, gives my discord + ConsoleEnhancements Discord Se
 | Command     | Windows        | OS X           | Linux          |
 |-------------|----------------|----------------|----------------|
 | TIME        | [experimental] | [stable]       | [unstable]     |
-| SYSTEMINFO  | [experimental] | [experimental] | [experimental] |
-| TOPTENRAM   | [experimental] | [experimental] | [experimental] |
-| NETWORKINFO | [experimental] | [stable]       | [experimental] |
+| SYSTEMINFO  | [experimental] | [experimental] | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) |
+| TOPTENRAM   | [experimental] | [experimental] | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) |
+| NETWORKINFO | [experimental] | [stable]       | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) |
 
 # Version History
 
