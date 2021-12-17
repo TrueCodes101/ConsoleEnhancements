@@ -12,17 +12,17 @@ Created by TrueCodes101
 
 | OS      | Version     | Status     |
 |---------|-------------|------------|
-| Windows | Version 0.3 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
-| OS X    | Version 0.1 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
-| Linux   | Version 0.0 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
+| Windows | Version 0.3 | [unstable] |
+| OS X    | Version 0.1 | [unstable] |
+| Linux   | Version 0.0 | [unstable] |
 
 ### I.C.E. Status (Indiviual-Command EXE)
 
 | OS      | Version     | Status     |
 |---------|-------------|------------|
-| Windows | Version 0.0 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
-| OS X    | Version 1.0 | [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)     |
-| Linux   | Version 0.0 | [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges) |
+| Windows | Version 0.0 | [unstable] |
+| OS X    | Version 1.0 | [stable]   |
+| Linux   | Version 0.0 | [unstable] |
 
 # All Available Commands:
 
@@ -39,12 +39,12 @@ HELP -  used in TUTORIALS.exe, gives my discord + ConsoleEnhancements Discord Se
 
 # Command Statuses:
 
-| Command     | Windows    | OS X       | Linux      |
-|-------------|------------|------------|------------|
-| TIME        | Unreleased | Stable     | Unstable   |
-| SYSTEMINFO  | Unreleased | Unreleased | Unreleased |
-| TOPTENRAM   | Unreleased | Unreleased | Unreleased |
-| NETWORKINFO | Unreleased | Stable     | Unreleased |
+| Command     | Windows        | OS X           | Linux          |
+|-------------|----------------|----------------|----------------|
+| TIME        | [experimental] | [stable]       | [unstable]     |
+| SYSTEMINFO  | [experimental] | [experimental] | [experimental] |
+| TOPTENRAM   | [experimental] | [experimental] | [experimental] |
+| NETWORKINFO | [experimental] | [stable]       | [experimental] |
 
 # Version History
 
