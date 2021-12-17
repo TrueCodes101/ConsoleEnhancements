@@ -41,10 +41,10 @@ HELP -  used in TUTORIALS.exe, gives my discord + ConsoleEnhancements Discord Se
 
 | Command     | Windows        | OS X           | Linux          |
 |-------------|----------------|----------------|----------------|
-| TIME        | [experimental] | [stable]       | [unstable]     |
-| SYSTEMINFO  | [experimental] | [experimental] | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) |
-| TOPTENRAM   | [experimental] | [experimental] | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) |
-| NETWORKINFO | [experimental] | [stable]       | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) |
+| TIME        | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) | [stable]       | [unstable]     |
+| SYSTEMINFO  | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) |
+| TOPTENRAM   | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) |
+| NETWORKINFO | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) | [stable]       | [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges) |
 
 # Version History
 
