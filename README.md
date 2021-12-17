@@ -60,4 +60,4 @@ ConsoleEnhancements **Version 1.0** was officially released on by TrueCodes101, 
 Please do not claim this software(s) as your own under any circumstances.
 
 
-[stable](http://badges.github.io/stability-badges/dist/stable.svg)
+[stable]: http://badges.github.io/stability-badges/dist/stable.svg
